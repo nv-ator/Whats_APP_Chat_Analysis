@@ -221,11 +221,11 @@ if page == "About":
 
         - 📧 Email: thakurujjwal895@gmail.com  
         - 💬 WhatsApp: +91 9310408574  
-        - 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-        - 🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME  
+        - 💻 GitHub: https://https://github.com/nv-ator 
+        - 🔗 LinkedIn: https://www.linkedin.com/in/ujthakur/
 
         ---
-        This project was built for learning, analysis, and demonstration purposes.
+        This is my first big project with full deployement !
         """
     )
 
