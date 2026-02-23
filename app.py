@@ -217,10 +217,9 @@ if page == "About":
         - Seaborn
 
         ### 👨‍💻 Developer
-        **Ujjwal**
+        **Ujjwal & Mayank**
 
         - 📧 Email: thakurujjwal895@gmail.com  
-        - 💬 WhatsApp: +91 9310408574  
         - 💻 GitHub: https://https://github.com/nv-ator 
         - 🔗 LinkedIn: https://www.linkedin.com/in/ujthakur/
 
@@ -251,7 +250,7 @@ st.markdown(
     </style>
 
     <div class="footer">
-        <strong>Developed by Ujjwal</strong> |
+        <strong>Developed by Ujjwal & Mayank </strong> |
         📧 <a href="mailto:thakurujjwal895@gmail.com">Email</a> |
         💬 <a href="https://wa.me/919310408574" target="_blank">WhatsApp</a> |
         💻 <a href="https://https://github.com/nv-ator" target="_blank">GitHub</a> |
