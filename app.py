@@ -217,7 +217,7 @@ if page == "About":
         - Seaborn
 
         ### 👨‍💻 Developer
-        **Ujjwal & Mayank**
+        **Ujjwal**
 
         - 📧 Email: thakurujjwal895@gmail.com  
         - 💻 GitHub: https://https://github.com/nv-ator 
